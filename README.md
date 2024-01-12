@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 I'm Shalev
 
-<!--
-**ShalevAri/ShalevAri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🤔
+I'm a 15 y/o student with a passion for coding, currently focused on becoming a full stack developer.
 
-Here are some ideas to get you started:
+## Tech Stack 🚀
+I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t3-app` to create every single project of mine since I discovered it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source 🤝
+I’m all about free and open source software, and currently planning some contributions!
+
+## Beyond the Screen 🌱
+When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some video games 🎮
