@@ -8,11 +8,11 @@ I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t
 
 ## Things I use
 `create-t3-app`
-[Next.js](https://nextjs.org/)
-[Astro](https://astro.build/)
-[React](https://react.dev/)
-[Typescript](https://www.typescriptlang.org/)
-[Tailwind](https://tailwindcss.com/)
+[Next.js](https://nextjs.org/)<br />
+[Astro](https://astro.build/)<br />
+[React](https://react.dev/)<br />
+[Typescript](https://www.typescriptlang.org/)<br />
+[Tailwind](https://tailwindcss.com/)<br />
 
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some video games 🎮
