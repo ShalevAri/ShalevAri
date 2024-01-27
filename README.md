@@ -6,5 +6,13 @@ I'm a 15 y/o student with a passion for coding, currently focused on becoming a 
 ## Tech Stack 🚀
 I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t3-app` to create every single project of mine since I discovered it.
 
+## Things I use
+`create-t3-app`
+[Next.js](https://nextjs.org/)
+[Astro](https://astro.build/)
+[React](https://react.dev/)
+[Typescript](https://www.typescriptlang.org/)
+[Tailwind](https://tailwindcss.com/)
+
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some video games 🎮
