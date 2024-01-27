@@ -15,4 +15,4 @@ I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t
 [Tailwind](https://tailwindcss.com/)<br />
 
 ## Beyond the Screen 🌱
-When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some video games 🎮
+When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
