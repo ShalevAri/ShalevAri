@@ -7,7 +7,7 @@ I'm a 15 y/o student with a passion for coding, currently focused on becoming a 
 I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t3-app` to create every single project of mine since I discovered it.
 
 ## Things I use
-`create-t3-app`
+`create-t3-app`<br />
 [Next.js](https://nextjs.org/)<br />
 [Astro](https://astro.build/)<br />
 [React](https://react.dev/)<br />
