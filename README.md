@@ -18,6 +18,7 @@ I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t
 [React](https://react.dev/)<br />
 [Typescript](https://www.typescriptlang.org/)<br />
 [Rust](https://www.rust-lang.org/)<br />
+AI & Machine Learning
 
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
