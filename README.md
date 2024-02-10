@@ -15,10 +15,10 @@ I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t
 [Tailwind](https://tailwindcss.com/)<br />
 
 ## Dev Workflow 🧑‍💻
-I use VSCode for my "heavy" code edits, and long coding sessions, when I need those tiny things that only VSCode has.
-I use LazyVim most of the time for an amazing quick and personal coding experience, tailored for my own needs.
-I also have DOOM Emacs installed, but this is mainly for the [Magit](https://github.com/magit/magit) plugin, which is an amazing way to do everything related to git.
-My current shell of choice is the [Fish shell](https://github.com/fish-shell/fish-shell) coupled with tmux and iTerm2.
+I use VSCode for my "heavy" code edits, and long coding sessions, when I need those tiny things that only VSCode has.<br />
+I use LazyVim most of the time for an amazing quick and personal coding experience, tailored for my own needs.<br />
+I also have DOOM Emacs installed, but this is mainly for the [Magit](https://github.com/magit/magit) plugin, which is an amazing way to do everything related to git.<br />
+My current shell of choice is the [Fish shell](https://github.com/fish-shell/fish-shell) coupled with tmux and iTerm2.<br />
 
 ## Currently Learning 📖
 [React](https://react.dev/)<br />
