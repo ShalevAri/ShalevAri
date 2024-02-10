@@ -25,5 +25,8 @@ A tiny CLI tool called [geny](https://crates.io/crates/geny)
 It helps you quickly generate license files for your projects!
 It was mostly a learning opportunity for me, but I still wanted to publish it so that other people may find use for it :)
 
+## Portfolio 📄
+[shalev.vercel.app](https://shalev.vercel.app/)
+
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
