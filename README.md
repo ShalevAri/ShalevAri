@@ -28,12 +28,12 @@ It's simple to configure, has all the features that I need built-in, and is over
 [Rust](https://www.rust-lang.org/)<br />
 AI & Machine Learning
 
-## Stuff I made ⚡
+## Stuff I made 📦
 A tiny CLI tool called [geny](https://crates.io/crates/geny)
 It helps you quickly generate license files for your projects!
 It was mostly a learning opportunity for me, but I still wanted to publish it so that other people may find use for it :)
 
-## Portfolio 📄
+## Portfolio ⚡
 [shalev.vercel.app](https://shalev.vercel.app/)
 
 ## Beyond the Screen 🌱
