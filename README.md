@@ -38,3 +38,6 @@ It was mostly a learning opportunity for me, but I still wanted to publish it so
 
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
+
+## clarification
+I am in no way an expert in any of the things I mentioned that I am using/learning above, I am just getting started, but I do feel like I'm slowly improving and getting the hang of things.
