@@ -32,6 +32,7 @@ AI & Machine Learning
 A tiny CLI tool called [geny](https://crates.io/crates/geny)
 It helps you quickly generate license files for your projects!
 It was mostly a learning opportunity for me, but I still wanted to publish it so that other people may find use for it :)
+Another tiny CLI tool called [supergitignore](https://crates.io/crates/supergitignore) that is very similar to [geny](https://crates.io/crates/geny) but instead of generating license files for you, it generates a massive `.gitignore` file!
 
 ## Portfolio ⚡
 [shalev.vercel.app](https://shalev.vercel.app/)
