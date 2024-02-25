@@ -34,9 +34,6 @@ It helps you quickly generate license files for your projects!
 It was mostly a learning opportunity for me, but I still wanted to publish it so that other people may find use for it :)<br />
 Another tiny CLI tool called [supergitignore](https://crates.io/crates/supergitignore) which is very similar to [geny](https://crates.io/crates/geny) but instead of generating license files for you it generates a massive `.gitignore` file!
 
-## Portfolio ⚡
-[shalev.vercel.app](https://shalev.vercel.app/)
-
 ## Beyond the Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
 
