@@ -38,4 +38,4 @@ Another tiny CLI tool called [supergitignore](https://crates.io/crates/supergiti
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
 
 ## clarification
-I am in no way an expert in any of the things I mentioned that I am using/learning above, I am just getting started, but I do feel like I'm slowly improving and getting the hang of things.
+I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
