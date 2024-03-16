@@ -6,7 +6,7 @@ I'm a 15 y/o student passionate about coding, and learning to become a Full Stac
 ## Tech Stack 🚀
 I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t3-app` to create my projects.
 
-## Things I use 🛠️
+## Things I Use 🛠️
 [create-t3-app](https://github.com/t3-oss/create-t3-app)<br />
 [Next.js](https://nextjs.org/)<br />
 [Astro](https://astro.build/)<br />
@@ -15,7 +15,7 @@ I love the [T3 stack](https://github.com/t3-oss/create-t3-app) and use `create-t
 [Tailwind](https://tailwindcss.com/)<br />
 [Jotai](https://jotai.org/)
 
-## Dev Workflow 🧑‍💻
+## My Dev Workflow 🧑‍💻
 I use VSCode for my "heavy" code edits.<br />
 I use LazyVim when I want an amazing, quick, and fun coding experience tailored to my specific needs.<br />
 I also have DOOM Emacs installed, but this is mainly for the [Magit](https://github.com/magit/magit) plugin, which is an amazing way to do everything related to git.<br />
@@ -29,8 +29,8 @@ I found myself hopping around between iTerm2, Warp, and Alacritty, but in the en
 [rust](https://www.rust-lang.org/)<br />
 AI & Machine Learning
 
-## Beyond the Screen 🌱
+## Beyond The Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
 
-## clarification
+## Clarification
 I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
