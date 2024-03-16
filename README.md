@@ -25,7 +25,7 @@ I found myself hopping around between iTerm2, Warp, and Alacritty, but in the en
 ## Currently Learning 📖
 [react](https://react.dev/)<br />
 [typescript](https://www.typescriptlang.org/)<br />
-[nest.js](https://nestjs.com/)
+[nest.js](https://nestjs.com/)<br />
 [rust](https://www.rust-lang.org/)<br />
 AI & Machine Learning
 
