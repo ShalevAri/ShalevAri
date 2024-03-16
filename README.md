@@ -41,27 +41,27 @@ Keep in mind that I use Apple Music for all my music
 
 Here is a full list of my `Fire 🔥` playlist (songs in order)
 ### Fire 🔥
-`Blank Space` - Taylor Swift - Yes
-`GODS` - League of Legends & NewJeans - Yes
-`RISE (feat. The Word Alive)` - League of Legends, The Glitch Mob & Mako - No
-`Unstoppable` - Sia - Yes
-`Alone` - Alan Walker - Yes
-`Alone` - Marshmello - Yes
-`Heroes (We Could Be [feat. Tove Lo]` - Alesso - Yes
-`Overnight` - Connor Price & Tommy Royale - Yes
-`Underdog` - Connor Price - Yes
-`Tombstone` - Connor Price & Yugoszn - Yes
-`I Gave Everything` - Connor Price & GRAHAM - Yes
-`Wasteland` - Against The Current - Yes
-`Blinding Lights` - The Weeknd - Yes
-`Familia (feat. Bantu) [Spider-Man: Into the Spider Verse]` - Nicki Minaj & Anuel AA - No
-`Now` - AGST - Yes (Song has no words)
-`Legends Never Die` - League of Legends & Against The Current - Yes
-`Warriors` - League of Legends, 2WEI & Edda Hayes - Yes
-`Chandelier` - Sia - Yes
-`Voices` - Against The Current - Yes
-`The Vindicator Waltz` - Formantx - Yes (Song has no words)
-`On My Own` - Ashes Remain - Yes
+`Blank Space` - Taylor Swift - Yes<br />
+`GODS` - League of Legends & NewJeans - Yes<br />
+`RISE (feat. The Word Alive)` - League of Legends, The Glitch Mob & Mako - No<br />
+`Unstoppable` - Sia - Yes<br />
+`Alone` - Alan Walker - Yes<br />
+`Alone` - Marshmello - Yes<br />
+`Heroes (We Could Be [feat. Tove Lo]` - Alesso - Yes<br />
+`Overnight` - Connor Price & Tommy Royale - Yes<br />
+`Underdog` - Connor Price - Yes<br />
+`Tombstone` - Connor Price & Yugoszn - Yes<br />
+`I Gave Everything` - Connor Price & GRAHAM - Yes<br />
+`Wasteland` - Against The Current - Yes<br />
+`Blinding Lights` - The Weeknd - Yes<br />
+`Familia (feat. Bantu) [Spider-Man: Into the Spider Verse]` - Nicki Minaj & Anuel AA - No<br />
+`Now` - AGST - Yes (Song has no words)<br />
+`Legends Never Die` - League of Legends & Against The Current - Yes<br />
+`Warriors` - League of Legends, 2WEI & Edda Hayes - Yes<br />
+`Chandelier` - Sia - Yes<br />
+`Voices` - Against The Current - Yes<br />
+`The Vindicator Waltz` - Formantx - Yes (Song has no words)<br />
+`On My Own` - Ashes Remain - Yes<br />
 
 ## Clarification
 I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
