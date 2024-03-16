@@ -53,6 +53,7 @@ Here is a full list of my `Fire 🔥` playlist (songs in order)
 `Tombstone` - Connor Price & Yugoszn - Yes<br />
 `I Gave Everything` - Connor Price & GRAHAM - Yes<br />
 `Wasteland` - Against The Current - Yes<br />
+`Lightning In a Bottle` - The Summer Set - No
 `Blinding Lights` - The Weeknd - Yes<br />
 `Familia (feat. Bantu) [Spider-Man: Into the Spider Verse]` - Nicki Minaj & Anuel AA - No<br />
 `Now` - AGST - Yes (Song has no words)<br />
