@@ -33,13 +33,14 @@ AI & Machine Learning
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
 
 ## My Favorite Music 🎸
-I currently have 2 main playlists that I play while coding & learning:
-`Fire 🔥` - A custom playlist that I created with many "powerful" and "action" songs that I like.
-`Lofi Girl` - this is not my own playlist, It's taken from the `Lofi Girl` YouTube channel, which has an amazing collection of chill music that I also like to play every now and then.
-Disclaimer: Almost all of the songs I hear are family-friendly except for a few, so I will make sure to specify which ones are which with a yes (family friendly) or no (not family friendly)
-Keep in mind that I use Apple Music for all my music
+I currently have 2 main playlists that I play while coding & learning:<br />
+`Fire 🔥` - A custom playlist that I created with many "powerful" and "action" songs that I like.<br />
+`Lofi Girl` - this is not my own playlist, It's taken from the `Lofi Girl` YouTube channel, which has an amazing collection of chill music that I also like to play every now and then.<br />
+Disclaimer: Almost all of the songs I hear are family-friendly except for a few, so I will make sure to specify which ones are which with a yes (family friendly) or no (not family friendly)<br />
+Keep in mind that I use Apple Music for all my music (so availability may differ)<br />
 
 Here is a full list of my `Fire 🔥` playlist (songs in order)
+
 ### Fire 🔥
 `Blank Space` - Taylor Swift - Yes<br />
 `GODS` - League of Legends & NewJeans - Yes<br />
@@ -63,6 +64,10 @@ Here is a full list of my `Fire 🔥` playlist (songs in order)
 `Voices` - Against The Current - Yes<br />
 `The Vindicator Waltz` - Formantx - Yes (Song has no words)<br />
 `On My Own` - Ashes Remain - Yes<br />
+
+### Honorable mentions
+`Way Up` - Jaden - Yes
+`Sunflower (Spider-Man: Into the Spider-Verse)` - Post Malone & Swae Lee - Yes
 
 ## Clarification
 I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
