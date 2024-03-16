@@ -32,5 +32,36 @@ AI & Machine Learning
 ## Beyond The Screen 🌱
 When not in school or coding, you'll probably find me reading a book 📚 spending time with family 🏡 or just playing some games 🎮
 
+## My Favorite Music 🎸
+I currently have 2 main playlists that I play while coding & learning:
+`Fire 🔥` - A custom playlist that I created with many "powerful" and "action" songs that I like.
+`Lofi Girl` - this is not my own playlist, It's taken from the `Lofi Girl` YouTube channel, which has an amazing collection of chill music that I also like to play every now and then.
+Disclaimer: Almost all of the songs I hear are family-friendly except for a few, so I will make sure to specify which ones are which with a yes (family friendly) or no (not family friendly)
+Keep in mind that I use Apple Music for all my music
+
+Here is a full list of my `Fire 🔥` playlist (songs in order)
+### Fire 🔥
+`Blank Space` - Taylor Swift - Yes
+`GODS` - League of Legends & NewJeans - Yes
+`RISE (feat. The Word Alive)` - League of Legends, The Glitch Mob & Mako - No
+`Unstoppable` - Sia - Yes
+`Alone` - Alan Walker - Yes
+`Alone` - Marshmello - Yes
+`Heroes (We Could Be [feat. Tove Lo]` - Alesso - Yes
+`Overnight` - Connor Price & Tommy Royale - Yes
+`Underdog` - Connor Price - Yes
+`Tombstone` - Connor Price & Yugoszn - Yes
+`I Gave Everything` - Connor Price & GRAHAM - Yes
+`Wasteland` - Against The Current - Yes
+`Blinding Lights` - The Weeknd - Yes
+`Familia (feat. Bantu) [Spider-Man: Into the Spider Verse]` - Nicki Minaj & Anuel AA - No
+`Now` - AGST - Yes (Song has no words)
+`Legends Never Die` - League of Legends & Against The Current - Yes
+`Warriors` - League of Legends, 2WEI & Edda Hayes - Yes
+`Chandelier` - Sia - Yes
+`Voices` - Against The Current - Yes
+`The Vindicator Waltz` - Formantx - Yes (Song has no words)
+`On My Own` - Ashes Remain - Yes
+
 ## Clarification
 I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
