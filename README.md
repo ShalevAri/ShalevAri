@@ -66,8 +66,8 @@ Here is a full list of my `Fire 🔥` playlist (songs in order)
 `On My Own` - Ashes Remain - Yes<br />
 
 ### Honorable mentions
-`Way Up` - Jaden - Yes
-`Sunflower (Spider-Man: Into the Spider-Verse)` - Post Malone & Swae Lee - Yes
+`Way Up` - Jaden - Yes<br />
+`Sunflower (Spider-Man: Into the Spider-Verse)` - Post Malone & Swae Lee - Yes<br />
 
 ## Clarification
 I'm in no way an expert in any of the things that I mentioned I'm using/learning above, but I do feel like I'm slowly improving and getting the hang of things :)
