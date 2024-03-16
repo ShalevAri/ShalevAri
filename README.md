@@ -20,7 +20,7 @@ I use VSCode for my "heavy" code edits.<br />
 I use LazyVim when I want an amazing, quick, and fun coding experience tailored to my specific needs.<br />
 I also have DOOM Emacs installed, but this is mainly for the [Magit](https://github.com/magit/magit) plugin, which is an amazing way to do everything related to git.<br />
 My current shell of choice is the [Fish shell](https://github.com/fish-shell/fish-shell) coupled with tmux and iTerm2.<br />
-I found myself hopping around between iTerm2, Warp, and Alacritty, but in the end, I always return to iTerm2, because it just works, has all the features I need, and is really easy to configure.
+I found myself hopping around between iTerm2, Warp, and Alacritty, but in the end, I always return to iTerm2, because it just works, has all the features I need, and is easy to configure.
 
 ## Currently Learning 📖
 [react](https://react.dev/)<br />
