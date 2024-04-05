@@ -6,7 +6,7 @@
 * 🧑‍💻 Interested in webapps & web development
 * 🚀 [T3 stack](https://github.com/t3-oss/create-t3-app)
 * 🤝 Open Source Enthusiast
-* 🇮🇱 Based in Israel
+* 🌏 Based in Israel 🇮🇱
 * 🎒 Student
 
 ### Tech I'm passionate about
