@@ -1,11 +1,13 @@
-### Hi there! 👋 I'm Shalev
+### Hi there 👋 I'm Shalev
 
-I'm a 15 y/o student passionate about coding, and learning to become a Full Stack Developer.
+15 y/o student passionate about coding, learning to become a Full Stack Developer
 
-### Aspiring Full Stack Developer ☁️
-* Interested in webapps & web development
-* I use the [T3 stack](https://github.com/t3-oss/create-t3-app)
-* Based in Israel 🇮🇱
+### Software Engineer
+* 🧑‍💻 Interested in webapps & web development
+* 🚀 [T3 stack](https://github.com/t3-oss/create-t3-app)
+* 🤝 Open Source Enthusiast
+* 🇮🇱 Based in Israel
+* 🎒 Student
 
 ### Tech I'm passionate about
 <div style="display: flex;">
