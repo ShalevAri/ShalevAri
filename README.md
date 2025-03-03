@@ -4,6 +4,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Shalev+Ari" alt="Typing SVG" /></a>
 </p>
 
+---
+
 <h3 align="left">🛠️ Tech Stack</h3>
 <p align="left" style="width: 30px; padding-right: 0px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
@@ -32,9 +34,13 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalevari&show_icons=true&locale=en" alt="shalevari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalevari&" alt="shalevari" /></p>
+
+---
 
 ### 🌱 I'm currently learning
 
@@ -43,6 +49,8 @@
 - Rust
 - Go
 - Other stuff I'm interested in
+
+---
 
 ### 📫 How to reach me
 
