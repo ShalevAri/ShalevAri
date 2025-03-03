@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shalev</h1>
 <h3 align="center">Frontend Developer and AI enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalevari" alt="shalevari" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend Development & AI**
 
 - 📫 How to reach me **shalevari2008@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
