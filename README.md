@@ -4,6 +4,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Shalev+Ari" alt="Typing SVG" /></a>
 </p>
 
+<p align="left">
+    I'm Shalev, a 16 y/o High School student learning Frontend Development.<br />
+    I started programming on-and-off when I was younger (primarily python) and got serious about Web Development a few years ago.<br />
+</p>
+
 ---
 
 <h3 align="left">🛠️ Tech Stack</h3>
