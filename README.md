@@ -57,6 +57,13 @@
 
 ---
 
+### 📦 Current Projects
+
+- [Ducky](https://github.com/shalevari/ducky) - A local, client-only search router
+- [gitstrap](https://github.com/shalevari/gitstrap) - A CLI tool to initialize new GitHub repos quickly
+
+---
+
 ### 📫 How to reach me
 
 - Email: shalevari2008@gmail.com
