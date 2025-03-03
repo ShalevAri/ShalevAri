@@ -49,11 +49,10 @@
 
 ### 🌱 I'm currently learning
 
-- Frontend Development
-- AI & LLMs
-- Rust
-- Go
-- Other stuff I'm interested in
+- ☁️ Frontend Development
+- 🤖 AI & LLMs
+- 🦀 Rust
+- 🧑‍💻 Anything else I'm interested in
 
 ---
 
