@@ -1,4 +1,4 @@
-**`Junior Frontend Developer & AI Enthusiast`**
+**`Junior Frontend Developer`**
 
 <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Shalev+Ari" alt="Typing SVG" /></a>
@@ -36,6 +36,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalevari&" alt="shalevari" /></p>
 
-- 🌱 I’m currently learning **Frontend Development & AI**
+### 🌱 I'm currently learning
 
-- 📫 How to reach me **shalevari2008@gmail.com**
+- Frontend Development
+- AI & LLMs
+- Rust
+- Go
+- Other stuff I'm interested in
+
+### 📫 How to reach me
+
+- Email: shalevari2008@gmail.com
