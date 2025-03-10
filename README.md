@@ -63,6 +63,11 @@
 
 ---
 
+### 💬 Some things I agree with:
+- https://nohello.net/en/
+- https://dontasktoask.com/
+- https://xyproblem.info/
+
 ### 📫 How to reach me
 
 - Email: shalevari2008@gmail.com
