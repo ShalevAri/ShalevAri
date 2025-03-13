@@ -51,6 +51,7 @@
 
 - ☁️ Frontend Development
 - 🤖 AI & LLMs
+- 🐹 Go
 - 🦀 Rust
 - 🧑‍💻 Anything else I'm interested in
 
