@@ -58,7 +58,8 @@
 
 ### 📦 Current Projects
 
-- [Ducky](https://github.com/shalevari/ducky) - A local, client-only search router
+- [Ducky](https://github.com/shalevari/ducky) - A Blazingly Fast ⚡ Search Router
+- [Cursor Automator](https://github.com/ShalevAri/cursor-automator) Make Cursor amazing
 - [gitstrap](https://github.com/shalevari/gitstrap) - A CLI tool to initialize new GitHub repos quickly
 
 ---
