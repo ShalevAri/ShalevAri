@@ -40,6 +40,16 @@
 </p>
 
 ---
+<h3 align="left">🛠️ Tools</h3>
+
+- 🤖 Cursor
+- ⚡ Neovim
+- 👻 Ghostty
+- 🦊 Zen Browser
+
+---
+
+<h3 align="left">🧑‍💻 Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalevari&show_icons=true&locale=en" alt="shalevari" /></p>
 
@@ -47,7 +57,7 @@
 
 ---
 
-### 🌱 I'm currently learning
+<h3 align="left">🌱 I'm currently learning</h3>
 
 - ☁️ Frontend Development
 - 🤖 AI & LLMs
@@ -57,7 +67,7 @@
 
 ---
 
-### 📦 Current Projects
+<h3 align="left">📦 Current Projects</h3>
 
 - [Ducky](https://github.com/shalevari/ducky) - A Blazingly Fast ⚡ Search Router
 - [Cursor Automator](https://github.com/ShalevAri/cursor-automator) Make Cursor amazing
@@ -65,11 +75,12 @@
 
 ---
 
-### 💬 Some things I agree with:
+<h3 align="left">💬 Some things I agree with:</h3>
+
 - https://nohello.net/en/
 - https://dontasktoask.com/
 - https://xyproblem.info/
 
-### 📫 How to reach me
+<h3 align="left">📫 How to reach me</h3>
 
 - Email: shalevari2008@gmail.com
