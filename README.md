@@ -34,8 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalevari&show_icons=true&locale=en" alt="shalevari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalevari&" alt="shalevari" /></p>
-
 ---
 
 <h3 align="left">🌱 I'm currently learning</h3>
