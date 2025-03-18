@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="left">🌱 I'm currently learning</h3>
+<h3 align="left">🌱 Currently Learning</h3>
 
 - ☁️ Frontend Development
 - 🤖 AI & LLMs
