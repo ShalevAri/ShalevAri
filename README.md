@@ -12,32 +12,13 @@
 ---
 
 <h3 align="left">🛠️ Tech Stack</h3>
-<p align="left" style="width: 30px; padding-right: 0px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174935.png?f=webp&w=512" alt="Node.js" title="Node.js" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <!-- Others -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://img.icons8.com/fluency/48/000000/console.png" alt="Terminal" title="Terminal Utils" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <!-- Databases -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+<div style="display: flex;">
+  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
+  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
+  <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
+  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
+</div>
 
 ---
 <h3 align="left">🛠️ Tools</h3>
