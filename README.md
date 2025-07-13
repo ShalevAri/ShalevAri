@@ -19,6 +19,8 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
 </div>
 
+---
+
 <h3 align="left">🌱 Currently Learning</h3>
 
 - ☁️ Frontend Development
@@ -32,8 +34,6 @@
 <h3 align="left">📦 Current Projects</h3>
 
 - [Ducky](https://github.com/shalevari/ducky) - A Blazingly Fast ⚡ Search Router
-- [Cursor Automator](https://github.com/ShalevAri/cursor-automator) Make Cursor amazing
-- [gitstrap](https://github.com/shalevari/gitstrap) - A CLI tool to initialize new GitHub repos quickly
 
 ---
 
