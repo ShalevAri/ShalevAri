@@ -6,7 +6,6 @@
 
 <p align="left">
     I'm Shalev, a 16 y/o High School student learning Frontend Development.<br />
-    I started programming on-and-off when I was younger (primarily python) and got serious about Web Development a few years ago.<br />
 </p>
 
 ---
@@ -19,22 +18,6 @@
   <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
 </div>
-
----
-<h3 align="left">🛠️ Tools</h3>
-
-- 🤖 Cursor
-- ⚡ Neovim
-- 👻 Ghostty
-- 🦊 Zen Browser
-
----
-
-<h3 align="left">🧑‍💻 Stats</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalevari&show_icons=true&locale=en" alt="shalevari" /></p>
-
----
 
 <h3 align="left">🌱 Currently Learning</h3>
 
