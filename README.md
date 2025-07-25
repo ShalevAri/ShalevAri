@@ -10,7 +10,9 @@
 
 <h3 align="left">Current Projects</h3>
 
-- [Ducky](https://github.com/shalevari/ducky) - A local search router
+- [arch-dots](https://github.com/ShalevAri/arch-dots) - My Arch Linux w/ Hyprland Dotfiles
+- [Ducky](https://github.com/ShalevAri/ducky) - A local search router
+
 
 ---
 
