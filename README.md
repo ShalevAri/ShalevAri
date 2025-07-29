@@ -10,7 +10,7 @@
 
 <h3 align="left">Current Projects</h3>
 
-- [arch-dots](https://github.com/ShalevAri/arch-dots) - My Arch Linux w/ Hyprland Dotfiles
+- [Shadow Arch](https://github.com/ShalevAri/shadow-arch) - A Premium Desktop Experience
 - [Ducky](https://github.com/ShalevAri/ducky) - A local search router
 
 
