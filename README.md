@@ -10,10 +10,10 @@
 
 ### 💬 Some things I agree with:
 
-- https://www.neverjust.net/
 - https://nohello.net/en/
 - https://dontasktoask.com/
 - https://xyproblem.info/
+- https://www.neverjust.net/
 
 ---
 
