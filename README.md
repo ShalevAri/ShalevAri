@@ -1,5 +1,5 @@
 ## Hey 👋 I'm Shalev
-<p>A 16 y/o student learning Frontend Development, Linux, Rust & AI</p>
+<p>A 17 y/o student learning Frontend Development, Linux, Rust & AI</p>
 
 ---
 
